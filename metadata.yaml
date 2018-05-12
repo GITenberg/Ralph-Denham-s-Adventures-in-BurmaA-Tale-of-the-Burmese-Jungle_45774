@@ -1,0 +1,27 @@
+_repo: Ralph-Denham-s-Adventures-in-BurmaA-Tale-of-the-Burmese-Jungle_45774
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45774-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Norway, G. (George)
+    alias: Norway, George
+    gutenberg_agent_id: '43445'
+    url: http://www.gutenberg.org/2009/agents/43445
+description: ''
+gutenberg_issued: '2014-05-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45774'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Fatherless families -- Juvenile fiction'
+- !lcsh 'Burma -- Juvenile fiction'
+title: 'Ralph Denham''s Adventures in Burma: A Tale of the Burmese Jungle'
+url: http://www.gutenberg.org/ebooks/45774
