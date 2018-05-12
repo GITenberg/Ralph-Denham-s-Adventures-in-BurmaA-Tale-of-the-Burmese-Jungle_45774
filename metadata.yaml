@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43445'
     url: http://www.gutenberg.org/2009/agents/43445
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45774#Ralph-Denham-s-Adventures-in-BurmaA-Tale-of-the-Burmese-Jungle
 gutenberg_issued: '2014-05-26'
 gutenberg_type: Text
 identifiers:
